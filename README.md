@@ -6,3 +6,7 @@ This project work fine with large and dissimilar input size
 ## How to detect poison
 
 Run Detect_poison.ipynb and do step by step in jupyter nb
+
+## Result
+
+![alt text](./pics/result.jpg "Example result")
